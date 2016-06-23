@@ -1,5 +1,4 @@
-Interação da Tarefa 10 (posteriormente editado para a Tarefa 15):
+Interação da Tarefa 10:
 - Data: 23/06/2016
-- Data da segunda alteração: 23/06/2016
 - Hora: 01:16
-- Hora da segunda alteração: 01:38
+- Arquivo alterado para a tarefa 15, porém no branch ramo2 
