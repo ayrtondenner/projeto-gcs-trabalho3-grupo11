@@ -3,8 +3,8 @@ Trabalho número 3 de Gerência de Configuração de Software - 2016 - Professo 
 
 Alunos:
 
-Ayrton Denner -
+Ayrton Denner - 12
 
-Kaio Cristian - 
+Kaio Cristian - 12
 
 Romulo Borges - 126321
