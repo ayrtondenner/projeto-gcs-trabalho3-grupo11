@@ -4,8 +4,11 @@ Trabalho número 3 de Gerência de Configuração de Software - 2016 - Professor
 Aluno(s):
 
 Ayrton Denner - 122249
+
 Kaio Cristian - 122266
+
 Romulo Borges - 126321
+
 Presença excepcional do Professor Rubens de Castro Pereira - rubenscp@gmail.com
 
 Sistema de controle de versão: Github (via plugin adicionado no Eclipse)
